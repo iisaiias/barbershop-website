@@ -74,7 +74,7 @@ Este proyecto forma parte de una serie de proyectos de portafolio enfocados en d
 ## 📸 Preview
 
 
-
+![Preview del sitio](Previewcrown.png)
 
 
 ---
